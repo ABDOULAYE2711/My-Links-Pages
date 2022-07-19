@@ -6,7 +6,7 @@
 
 # Demo app
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)]([https://chanin.streamlitapp.com/](https://abdoulaye2711-my-links-pages-streamlit-app-ut53fs.streamlitapp.com/))
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)]([https://abdoulaye2711-my-links-pages-streamlit-app-ut53fs.streamlitapp.com/])
 
 # Setting up
 
