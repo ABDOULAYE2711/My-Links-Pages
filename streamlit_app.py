@@ -13,7 +13,7 @@ st.info('Data analyst, créateur de contenu et passionné de la data.')
 
 icon_size = 20
 
-st_button('youtube', 'https://www.youtube.com/channel/UCZ_Sor5J6415zV8k3hNlk6Q', 'ABDOULAYE BADJI YouTube channel', icon_size)
+st_button('youtube', 'https://www.youtube.com/channel/UCZ_Sor5J6415zV8k3hNlk6Q', 'My YouTube channel', icon_size)
 st_button('twitter', 'https://twitter.com/Badji2711', 'Follow me on Twitter', icon_size)
 st_button('linkedin', 'https://www.linkedin.com/in/abdoulaye-badji-a24697a0//', 'Follow me on LinkedIn', icon_size)
 st_button('facebook', 'https://www.facebook.com/abdoulaye.badji.779', 'Follow me on Facebook', icon_size)
