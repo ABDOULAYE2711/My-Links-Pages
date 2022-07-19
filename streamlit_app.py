@@ -9,7 +9,7 @@ col2.image(Image.open('bd.png'))
 
 st.header('ABDOULAYE BADJI')
 
-st.info('Data analyst, créateur de contenu et passionné de la data.')
+st.info('Data analyst, créateur de contenu et passionné de data.')
 
 icon_size = 20
 
